@@ -12,9 +12,9 @@ const PricingOption = ({ pricingPromise }) => {
         {pricingData.map((pricing) => (
           <PricingCard key={pricing.id} pricing={pricing}></PricingCard>
         ))}
-        {pricingData.map((pricing) => (
+        {/* {pricingData.map((pricing) => (
           <DaisyPricing key={pricing.id} pricing={pricing}></DaisyPricing>
-        ))}
+        ))} */}
       </div>
     </div>
   );

@@ -1,0 +1,42 @@
+[
+    {
+      "student_id": 10,
+        "name": "Alice Rahman",
+        "class": 10,
+        "marks": {
+          "math": 88,
+          "english": 76,
+          "science": 91,
+          "history": 69,
+          "physics": 85,
+          "chemistry": 92
+        }
+      },
+    {
+      "student_id":10,
+        "name": "Bashir Ahmed",
+        "class": 10,
+        "marks": {
+          "math": 72,
+          "english": 81,
+          "science": 79,
+          "history": 85,
+          "physics": 78,
+          "chemistry": 83
+        }
+      },
+    {
+      "student_id": 10, 
+        "name": "Chowdhury Nila",
+        "class": 10,
+        "marks": {
+          "math": 93,
+          "english": 90,
+          "science": 97,
+          "history": 87,
+          "physics": 96,
+          "chemistry": 94
+        }
+      
+    }
+]
