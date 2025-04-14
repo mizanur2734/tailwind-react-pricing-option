@@ -2,7 +2,7 @@
     {
       "id": "plan_free",
       "name": "Free Plan",
-      "price": 229,
+      "price": "$89.40/month",
       "currency": "USD",
       "billingCycle": "monthly",
       "description": "Basic access for personal use or testing.",
@@ -16,10 +16,11 @@
     {
       "id": "plan_starter",
       "name": "Starter Plan",
-      "price": 910,
+      "price": "$99.90/month",
+      "popular": "true",
       "currency": "USD",
       "billingCycle": "monthly",
-      "description": "For individuals starting to build serious projects.",
+      "description": "For individuals starting to build serious.",
       "features": [
         "3 projects",
         "Email support",
@@ -30,10 +31,10 @@
     {
       "id": "plan_pro",
       "name": "Pro Plan",
-      "price": 730,
+      "price": "$69.76/month",
       "currency": "USD",
       "billingCycle": "monthly",
-      "description": "Advanced tools and capacity for growing teams.",
+      "description": "Advanced tools and capacity for growing.",
       "features": [
         "10 projects",
         "Priority email support",
@@ -41,22 +42,7 @@
         "10,000 API calls/month",
         "Team collaboration"
       ]
-    },
-    {
-      "id": "plan_enterprise",
-      "name": "Enterprise Plan",
-      "price": "560",
-      "currency": "USD",
-      "billingCycle": "monthly",
-      "description": "Custom solutions and dedicated support for enterprises.",
-      "features": [
-        "Unlimited projects",
-        "Dedicated account manager",
-        "Custom analytics and reporting",
-        "Unlimited API calls",
-        "SSO and advanced security",
-        "24/7 support"
-      ]
     }
+    
   ]
   

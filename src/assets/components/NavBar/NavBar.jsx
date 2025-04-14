@@ -36,7 +36,7 @@ const NavBar = () => {
     <Link key={route.id} route={route}></Link>
   ));
   return (
-    <nav className="flex justify-between mx-12">
+    <nav className="flex justify-between mx-12 mt-4">
       <span className="flex" onClick={() => setOpen(!open)}>
         {open ? (
           <X className="md:hidden"></X>
